@@ -47,6 +47,7 @@ Cliquez sur **« Ajouter un compte »** et remplissez :
 | Champ | Ce qu'il faut mettre |
 |---|---|
 | Nom d'affichage | Facultatif, pour vous y retrouver (« Compte réel », « Démo »…) |
+| Robot | Seulement si votre groupe propose plusieurs robots : celui à installer sur ce compte (modifiable ensuite) |
 | Numéro de compte MT5 | Celui de l'e-mail PU Prime |
 | Mot de passe MT5 | Le mot de passe principal du compte |
 | Serveur | Celui de l'e-mail PU Prime : choisissez-le dans la liste ou saisissez-le |
