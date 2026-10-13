@@ -6,7 +6,7 @@ TradingHub Manager est une application Windows qui prend en charge toute l'insta
 à votre compte PU Prime, le graphique, le robot de votre groupe et ses réglages. Vous saisissez votre UserID et vos
 identifiants MT5, le Manager fait le reste, puis veille à ce que tout continue de tourner.
 
-**[Télécharger TradingHub Manager pour Windows](https://github.com/eziosala/tradinghub-manager-releases/releases/latest/download/TradingHub-Manager-Setup.exe)**
+**[Télécharger TradingHub Manager pour Windows](https://github.com/tradinghubea/tradinghub-manager-releases/releases/latest/download/TradingHub-Manager-Setup.exe)**
 
 ## Ce que fait le Manager
 
@@ -111,7 +111,7 @@ ne le signale.
 
 **Avec VirusTotal** (service gratuit qui fait analyser un fichier par plus de 60 antivirus) :
 
-1. Ouvrez la [page des versions](https://github.com/eziosala/tradinghub-manager-releases/releases/latest) : sous
+1. Ouvrez la [page des versions](https://github.com/tradinghubea/tradinghub-manager-releases/releases/latest) : sous
    « Vérifier le fichier », cliquez sur le lien VirusTotal.
 2. Si la page affiche déjà une analyse, regardez le résultat en haut : **0** (ou un seul moteur peu connu) signifie
    que le fichier est sain.
@@ -160,7 +160,7 @@ correctement. Vos MetaTrader 5 continuent de tourner pendant l'opération.
 ## À propos de ce dépôt
 
 Ce dépôt ne contient que les versions publiées de TradingHub Manager, dans l'onglet
-[Releases](https://github.com/eziosala/tradinghub-manager-releases/releases). Le code source de l'application n'y est
+[Releases](https://github.com/tradinghubea/tradinghub-manager-releases/releases). Le code source de l'application n'y est
 pas.
 
 Chaque version publie :
